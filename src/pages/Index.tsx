@@ -170,7 +170,7 @@ const Index = () => {
                 Start Learning Now
               </Button>
             </Link>
-            <Button size="lg" variant="outline" className="bg-card/90 backdrop-blur-sm border-primary/30 text-foreground hover:bg-card hover:border-primary">
+            <Button size="lg" variant="outline" className="bg-card/80 backdrop-blur-sm border-primary/30 text-foreground hover:bg-primary-foreground/10 hover:text-primary-foreground hover:border-primary-foreground transition-all">
               Take Placement Test
             </Button>
           </div>
